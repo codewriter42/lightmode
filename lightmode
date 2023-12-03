@@ -20,7 +20,7 @@ body{
             <button class="size a"><a href="https://www.youtube.com/channel/UCBDbCVPmMLsa80Q1wVwGoBQ" target="_blank" style="text-decoration: none;" title="Codewriter42 (Yazılım Kanalım)">Codewriter42</a></button>
         </div>
         <div align=center>
-            <button class="a"><a href="index.html">Ana Halini Görüntüle</a></button><button class="a"><a href="soluksyf.htm">Beyaz Modda Görüntülüyorsun Karanlık Modda Görüntülemek İçin Tıkla</a></button>
+            <button class="a"><a href="https://codewriter42.github.io/codewriter/">Ana Halini Görüntüle</a></button><button class="a"><a href="soluksyf.htm">Beyaz Modda Görüntülüyorsun Karanlık Modda Görüntülemek İçin Tıkla</a></button>
         </div>
     </body>
 </html>
